@@ -1,4 +1,9 @@
 # SISOverview.
+
+WE ARE IN THE PROCESS OF MOVING THE SIS TO A NEW, EASIER TO USE REPOSITORY. PLEASE CONSIDER MOVING YOUR FOCUS TO
+
+HTTPS://github.com/TeamPracticalProjects/SISProject
+
 This repository contains overview documents that describe the SIS project.  SIS stands for 
 "Standalone Intelligent Sensor" system. The documents in this repository explain the SIS concept 
 and provide the answers to Frequently Asked Questions (FAQ).
